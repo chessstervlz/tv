@@ -1,0 +1,1764 @@
+#EXTM3U url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy" tvg-logo="http://loganet.ru/images/channels/First.png",Первый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:0 tvg-logo="http://loganet.ru/images/channels/First-HD.png",Первый канал HD
+#EXTGRP:Federal/Федеральные
+http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl9" tvg-logo="http://loganet.ru/images/channels/First.png",Первый канал +9 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:0 tvg-logo="http://loganet.ru/images/channels/Russia-1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="devcm_1aissor_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0 tvg-logo="http://loganet.ru/images/channels/Russia-1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl9",Россия 1 +9 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv" tvg-logo="http://loganet.ru/images/channels/NTV.png",НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0 tvg-id="devcm_vtn_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv-pl7" tvg-logo="http://loganet.ru/images/channels/NTV.png",НТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:0 tvg-id="devcm_vtn_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD (Архив/Alternative)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otr" tvg-logo="http://loganet.ru/images/channels/OTR.png",ОТР (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru" tvg-logo="http://loganet.ru/images/channels/Fifth.png",Пятый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7" tvg-logo="http://loganet.ru/images/channels/Fifth.png",Пятый канал +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts",СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0 tvg-id="devcm_sts_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-pl7",СТС +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0 tvg-id="СТС International",СТС International
+#EXTGRP:Federal/Федеральные
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-love",СТС Love (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-love-pl7",СТС Love +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr" tvg-logo="http://loganet.ru/images/channels/TV-Centre.png",ТВ Центр (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr-pl7" tvg-logo="http://loganet.ru/images/channels/TV-Centre.png",ТВ Центр +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv" tvg-logo="http://loganet.ru/images/channels/Ren-TV.png",РенТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0 tvg-logo="http://loganet.ru/images/channels/Ren-TV-HD.png",РенТВ HD
+#EXTGRP:Federal/Федеральные
+http://185.23.80.28:8080/REN/index.m3u8?token=test
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" tvg-logo="http://loganet.ru/images/channels/Ren-TV.png",РенТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" tvg-logo="http://loganet.ru/images/channels/Domestic.png",Домашний (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" tvg-logo="http://loganet.ru/images/channels/Domestic.png",Домашний +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru" tvg-logo="http://loganet.ru/images/channels/TV-3.png",ТВ3 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" tvg-logo="http://loganet.ru/images/channels/TV-3.png",ТВ3 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica",Пятница! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0 tvg-id="devcm_acintayp_2024" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/pyatnica/index-${start}-${offset}.m3u8",Пятница HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7",Пятница! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0 tvg-id="Пятница! International",Пятница! International
+#EXTGRP:Federal/Федеральные
+http://s5.merlive.am/Pyatnica/index.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt",ТНТ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0 tvg-id="devcm_tnt_2024" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt-pl7",ТНТ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0 tvg-id="ТНТ International",ТНТ International (Европа)
+#EXTGRP:Federal/Федеральные
+http://85.187.13.40:18000/tntint
+#EXTINF:0 tvg-id="ТНТ4",ТНТ4
+#EXTGRP:Federal/Федеральные
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+#EXTINF:0 tvg-id="ТНТ4 HD",ТНТ4 HD
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt4-pl7",ТНТ4 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="zvezda" tvg-logo="http://loganet.ru/images/channels/Star.png",Звезда (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0 tvg-id="devcm_adzevz_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="zvezda-pl7" tvg-logo="http://loganet.ru/images/channels/Star.png",Звезда +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mir" tvg-logo="http://loganet.ru/images/channels/World.png",Мир (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0 tvg-id="devcm_rim_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/mir/index-${start}-${offset}.m3u8",Мир HD (Архив)
+#EXTGRP:Federal/Федеральные
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:0 tvg-id="mir-pl7" tvg-logo="http://loganet.ru/images/channels/World.png",Мир +7
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Federal/Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:0 tvg-id="2x2",2x2
+#EXTGRP:Entertainment/Развлекательные
+http://91.224.169.250:5000/c22
+#EXTINF:0 tvg-id="2x2 HD",2x2 HD
+#EXTGRP:Entertainment/Развлекательные
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:0 tvg-id="360° HD ",360° HD
+#EXTGRP:Entertainment/Развлекательные
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 tvg-id="Арсенал",Арсенал
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Арсенал HD",Арсенал HD
+#EXTGRP:Entertainment/Развлекательные
+http://45.143.108.104/arsenal/index.m3u8
+#EXTINF:0 tvg-id="Большая Азия HD",Большая Азия HD
+#EXTGRP:Entertainment/Развлекательные
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="В мире животных",В мире животных
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Вопросы и ответы",Вопросы и ответы
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Время",Время
+#EXTGRP:Entertainment/Развлекательные
+http://77.235.1.17/vremya/index.m3u8
+#EXTINF:0 tvg-id="Глазами туриста",Глазами туриста
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Доктор ",Доктор
+#EXTGRP:Entertainment/Развлекательные
+http://88.85.172.243:7004/play/a01l
+#EXTINF:0 tvg-id="Домашние животные",Домашние животные
+#EXTGRP:Entertainment/Развлекательные
+http://130.193.73.10:8937/play/a02d
+#EXTINF:0 tvg-id="Живая планета",Живая планета
+#EXTGRP:Entertainment/Развлекательные
+http://91.224.169.250:5000/c7
+#EXTINF:0 tvg-id="Живая природа",Живая природа
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Живая природа HD",Живая природа HD
+#EXTGRP:Entertainment/Развлекательные
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="Зал суда HD ",Зал суда HD
+#EXTGRP:Entertainment/Развлекательные
+rtmp://5.182.229.90//7141
+#EXTINF:0 tvg-id="Звезда Плюс",Звезда Плюс
+#EXTGRP:Entertainment/Развлекательные
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="Здоровое ТВ",Здоровое ТВ
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Инсайт ТВ HD",Инсайт ТВ HD
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="История",История
+#EXTGRP:Entertainment/Развлекательные
+http://109.200.130.123:7537/play/a025
+#EXTINF:0 tvg-id="Калейдоскоп ТВ",Калейдоскоп ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="КВН ТВ",КВН ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Ключ",Ключ
+#EXTGRP:Entertainment/Развлекательные
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
+#EXTINF:0 tvg-id="Конгресс ТВ",Конгресс ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:0 tvg-id="Кто есть кто",Кто есть кто
+#EXTGRP:Entertainment/Развлекательные
+http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="МосОбр ТВ",МосОбр ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:0 tvg-id="Моя планета",Моя планета
+#EXTGRP:Entertainment/Развлекательные
+http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:0 tvg-id="Моя планета HD",Моя планета HD
+#EXTGRP:Entertainment/Развлекательные
+http://31.210.208.171:8080/planeta_hd/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="Нано",Нано
+#EXTGRP:Entertainment/Развлекательные
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:0 tvg-id="Нано HD",Нано HD
+#EXTGRP:Entertainment/Развлекательные
+http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
+#EXTINF:0 tvg-id="Неизвестная Россия",Неизвестная Россия
+#EXTGRP:Entertainment/Развлекательные
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-id="Наука 2.0",Наука 2.0
+#EXTGRP:Entertainment/Развлекательные
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0 tvg-id="Наука 2.0 HD",Наука 2.0 HD
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Наша сибирь HD",Наша сибирь HD
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Ника ТВ",Ника ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Ностальгия",Ностальгия
+#EXTGRP:Entertainment/Развлекательные
+http://178.124.152.238:8088/nostalgia
+#EXTINF:0 tvg-id="НТВ Право",НТВ Право
+#EXTGRP:Entertainment/Развлекательные
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:0  tvg-id="Открытый мир",Открытый мир
+#EXTGRP:Entertainment/Развлекательные
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0 tvg-id="Первый космический",Первый космический
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Первый космический HD",Первый космический HD
+#EXTGRP:Entertainment/Развлекательные
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:0 tvg-id="Перец",Перец
+#EXTGRP:Entertainment/Развлекательные
+rtmp://212.0.213.132//Teledom
+#EXTINF:0 tvg-id="Победа",Победа
+#EXTGRP:Entertainment/Развлекательные
+http://185.50.148.2:7707/Pobeda/index.m3u8
+#EXTINF:0 tvg-id="Поехали!",Поехали!
+#EXTGRP:Entertainment/Развлекательные
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:0 tvg-id="Приключения",Приключения
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Продвижение",Продвижение
+#EXTGRP:Entertainment/Развлекательные
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0 tvg-id="Просвещение",Просвещение
+#EXTGRP:Entertainment/Развлекательные
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:0 tvg-id="Психология21",Психология21
+#EXTGRP:Entertainment/Развлекательные
+http://91.224.169.250:5000/c39
+#EXTINF:0 tvg-id="Ратник",Ратник
+#EXTGRP:Entertainment/Развлекательные
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Ретро",Ретро
+#EXTGRP:Entertainment/Развлекательные
+https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="РЖД HD",РЖД HD
+#EXTGRP:Entertainment/Развлекательные
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Родной канал HD",Родной канал HD
+#EXTGRP:Entertainment/Развлекательные
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
+#EXTINF:0 tvg-id="Сарафан",Сарафан
+#EXTGRP:Entertainment/Развлекательные
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+#EXTINF:0  tvg-id="Светлое ТВ",Светлое ТВ
+#EXTGRP:Entertainment/Развлекательные
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:0 tvg-id="super",Суббота!
+#EXTGRP:Entertainment/Развлекательные
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="Танцуй!",Танцуй!
+#EXTGRP:Entertainment/Развлекательные
+http://109.200.130.123:7537/play/a02l
+#EXTINF:0 tvg-id="Твоë ТВ HD ",Твоë ТВ HD
+#EXTGRP:Entertainment/Развлекательные
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 tvg-id="Твоë ТВ Юмор HD",Твоë ТВ Юмор HD
+#EXTGRP:Entertainment/Развлекательные
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 tvg-id="Техно 24",Техно 24
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Театр",Театр
+#EXTGRP:Entertainment/Развлекательные
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:0 tvg-id="Тонус",Тонус
+#EXTGRP:Entertainment/Развлекательные
+http://stream01.vnet.am/ZooTv/mono.m3u8
+#EXTINF:0 tvg-id="Точка Отрыва",Точка Отрыва
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Точка ТВ",Точка ТВ
+#EXTGRP:Entertainment/Развлекательные
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ЦТВ",ЦТВ
+#EXTGRP:Entertainment/Развлекательные
+http://88.218.242.237:8000/play/a00t
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che",Че! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Entertainment/Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che-pl7",Че! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Entertainment/Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0 tvg-id="Эхо ТВ",Эхо ТВ
+#EXTGRP:Entertainment/Развлекательные
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu",Ю (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Entertainment/Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7",Ю +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Entertainment/Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:0 tvg-id="Animal Planet",Animal Planet
+#EXTGRP:Entertainment/Развлекательные
+http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Big Planet",Big Planet
+#EXTGRP:Entertainment/Развлекательные
+http://185.50.148.2:7703/BigPlanet/index.m3u8
+#EXTINF:0 tvg-id="Big Planet HD",Big Planet HD
+#EXTGRP:Entertainment/Развлекательные
+http://88.218.242.237:8000/play/a00k
+#EXTINF:0 tvg-id="Curiosity Stream HD",Curiosity Stream HD
+#EXTGRP:Entertainment/Развлекательные
+http://88.218.242.237:8000/play/a00j
+#EXTINF:0 tvg-id="Da Vinci",Da Vinci
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="DetectiveJam HD",DetectiveJam HD
+#EXTGRP:Entertainment/Развлекательные
+http://88.218.242.237:8000/play/a00a
+#EXTINF:0 tvg-id="Discovery",Discovery
+#EXTGRP:Entertainment/Развлекательные
+http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+#EXTINF:0 tvg-id="Discovery HD",Discovery HD
+#EXTGRP:Entertainment/Развлекательные
+http://77.235.1.17/discovery_channel/index.m3u8 
+#EXTINF:0 tvg-id="Gagsnetwork HD",Gagsnetwork HD
+#EXTGRP:Entertainment/Развлекательные
+rtmp://5.182.229.90//7142
+#EXTINF:0 tvg-id="Galaxy TV",Galaxy TV
+#EXTGRP:Entertainment/Развлекательные
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="History",History
+#EXTGRP:Entertainment/Развлекательные
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Home HD",Home HD
+#EXTGRP:Entertainment/Развлекательные
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="НТМ HD",НТМ HD
+#EXTGRP:Entertainment/Развлекательные
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:0 tvg-id="id-xtra-eu",Investigation Discovery
+#EXTGRP:Entertainment/Развлекательные
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:0 tvg-id="Love Nature 4k",Love Nature 4k
+#EXTGRP:Entertainment/Развлекательные
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 tvg-id="Museum TV",Museum TV
+#EXTGRP:Entertainment/Развлекательные
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:0 tvg-id="MyZen TV HD",MyZen TV HD
+#EXTGRP:Entertainment/Развлекательные
+http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Nat Geo Wild",Nat Geo Wild
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="National Geographic",National Geographic
+#EXTGRP:Entertainment/Развлекательные
+https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="National Geographic HD",National Geographic HD
+#EXTGRP:Entertainment/Развлекательные
+rtmp://5.182.229.90//7320
+#EXTINF:0 tvg-id="RT Doc",RT Doc
+#EXTGRP:Entertainment/Развлекательные
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0 tvg-id="RTG TV",RTG TV
+#EXTGRP:Entertainment/Развлекательные
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="RTG HD",RTG HD
+#EXTGRP:Entertainment/Развлекательные
+http://77.235.1.17/rtg_hd/index.m3u8
+#EXTINF:0 tvg-id="RTVi",RTVi
+#EXTGRP:Entertainment/Развлекательные
+http://45.143.108.110:2203/RTVi
+#EXTINF:0 tvg-id="Silkway TV",Silkway TV
+#EXTGRP:Entertainment/Развлекательные
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:0 tvg-id="terra-ru",Terra
+#EXTGRP:Entertainment/Развлекательные
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
+#EXTINF:0 tvg-id="The Explorers",The Explorers
+#EXTGRP:Entertainment/Развлекательные
+http://88.218.242.237:8000/play/a00m
+#EXTINF:0 tvg-id="TLC",TLC
+#EXTGRP:Entertainment/Развлекательные
+http://edge02.odtv.az/o5/tlc/playlist.m3u8 
+#EXTINF:0 tvg-id="TLC HD",TLC HD
+#EXTGRP:Entertainment/Развлекательные
+http://91.224.169.250:5000/c164
+#EXTINF:0 tvg-id="Top Secret",Top Secret
+#EXTGRP:Entertainment/Развлекательные
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:0 tvg-id="TV Brics",TV Brics
+#EXTGRP:Entertainment/Развлекательные
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="TVM Channel",TVM Channel
+#EXTGRP:Entertainment/Развлекательные
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="Trace Sport Stars",Trace Sport Stars
+#EXTGRP:Entertainment/Развлекательные
+https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Viju Nature",Viju Nature
+#EXTGRP:Entertainment/Развлекательные
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Viju Nature HD",Viju Nature HD
+#EXTGRP:Entertainment/Развлекательные
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:0 tvg-id="Viju History",Viju History
+#EXTGRP:Entertainment/Развлекательные
+http://86.57.198.251:8181/play/1017/index.m3u8
+#EXTINF:0 tvg-id="Viju History HD",Viju History HD
+#EXTGRP:Entertainment/Развлекательные
+https://flussonic.salomtv.uz/Viasat_History/video.m3u8
+#EXTINF:0 tvg-id="Viju Explore",Viju Explore
+#EXTGRP:Entertainment/Развлекательные
+http://82.215.111.227/1045/index.m3u8
+#EXTINF:0 tvg-id="Viju Explore HD",Viju Explore HD
+#EXTGRP:Entertainment/Развлекательные
+https://flussonic.salomtv.uz/Viasat_Explorer/video.m3u8
+#EXTINF:0 tvg-id="Zooпарк",Zooпарк
+#EXTGRP:Entertainment/Развлекательные
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:0 tvg-id="В гостях у сказки"  tvg-logo="http://troya.info/images/chIcons/119.png"  timeshift="6",В гостях у сказки
+#EXTGRP:Kids/Детские
+http://109.200.130.123:7537/play/a02m
+#EXTINF:0 tvg-id="В гостях у сказки"  tvg-logo="http://troya.info/images/chIcons/119.png"  timeshift="6",В гостях у сказки HD
+#EXTGRP:Kids/Детские
+https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="devcm_rimted_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/detmir/index-${start}-${offset}.m3u8",Детский Мир (Архив)
+#EXTVLCOPT:http-user-agent=devcm-962FFC19050E33D09D5EF2F33CBEE2D724A41E2E
+#EXTGRP:Kids/Детские
+https://livetv.mylifeisgood.net.ru/channels/detskiimir.m3u8
+#EXTINF:0 tvg-id="Детское кино",Детское кино
+#EXTGRP:Kids/Детские
+http://77.235.1.17/detskoe_kino/index.m3u8
+#EXTINF:0 tvg-id="Детское кино International",Детское кино International
+#EXTGRP:Kids/Детские
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0 tvg-id="Капитан Фантастика",Капитан Фантастика
+#EXTGRP:Kids/Детские
+https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel",Карусель (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Kids/Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl7",Карусель +7 (Архив)
+#EXTGRP:Kids/Детские
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:0 tvg-id="КиноМульт",КиноМульт
+#EXTGRP:Kids/Детские
+http://109.200.130.123:7537/play/a024
+#EXTINF:0 tvg-id="Кнопка ТВ",Кнопка ТВ
+#EXTGRP:Kids/Детские
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:0 tvg-id="Лëва",Лëва HD
+#EXTGRP:Kids/Детские
+http://s5.merlive.am/planb/index.m3u8
+#EXTINF:0 tvg-id="Мама",Мама
+#EXTGRP:Kids/Детские
+http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:0 tvg-id="Мульт" tvg-logo="http://troya.info/images/chIcons/45.png" timeshift="3",Мульт
+#EXTGRP:Kids/Детские
+http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="Мульт HD" tvg-logo="http://troya.info/images/chIcons/45.png" timeshift="3",Мульт HD
+#EXTGRP:Kids/Детские
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="Мультики и Сказки" tvg-logo="https://i.postimg.cc/sx6H4jvt/Multiki-i-Skazki.png",Мультики и Сказки HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Kids/Детские
+https://hls.goodgame.ru/hls/198446.m3u8
+#EXTINF:0 tvg-id="Мультиландия"  tvg-logo="http://troya.info/images/chIcons/634.png"  timeshift="6",Мультиландия
+#EXTGRP:Kids/Детские
+http://93.189.224.246:52900/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="Мультимания",Мультимания
+#EXTGRP:Kids/Детские
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:0 tvg-id="Мультимузыка" tvg-logo="http://troya.info/images/chIcons/484.png" timeshift="6",Мультимузыка
+#EXTGRP:Kids/Детские
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:0 tvg-id="О!",О!
+#EXTGRP:Kids/Детские
+http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
+#EXTINF:0 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" timeshift="6",Пингвин
+#EXTGRP:Kids/Детские
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Радость Моя"  tvg-logo="http://troya.info/images/chIcons/487.png"  timeshift="6",Радость Моя
+#EXTGRP:Kids/Детские
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="Рыжий",Рыжий
+#EXTGRP:Kids/Детские
+https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Сказки Зайки",Сказки Зайки
+#EXTGRP:Kids/Детские
+http://77.235.1.17/skazki_zayki/index.m3u8
+#EXTINF:0 tvg-id="Смайл ТВ",Смайл ТВ
+#EXTGRP:Kids/Детские
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:0 tvg-id="Солнце",Солнце
+#EXTGRP:Kids/Детские
+http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-id="solnce",Солнце (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Kids/Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" tvg-id="solnce-pl7",Солнце +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Kids/Детские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:0 tvg-id="СоюзМультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+#EXTGRP:Kids/Детские
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0 tvg-id="СТС Kids",СТС Kids
+#EXTGRP:Kids/Детские
+https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="СТС Kids HD",СТС Kids HD
+#EXTGRP:Kids/Детские
+http://82.215.111.227/1437/index.m3u8
+#EXTINF:0 tvg-id="Супергерои"  tvg-logo="http://troya.info/images/chIcons/617.png"  timeshift="6",Супергерои
+#EXTGRP:Kids/Детские
+http://178.124.179.122:8088/Malish/index.m3u8
+#EXTINF:0 tvg-id="Чип и Дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+#EXTGRP:Kids/Детские
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0 tvg-id="Уникум",Уникум
+#EXTGRP:Kids/Детские
+https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Ani"  tvg-logo="http://troya.info/images/chIcons/488.png"  timeshift="6",Ani
+#EXTGRP:Kids/Детские
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="devcm_emit_ybab_2024" catchup-days="7" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/baby_time/index-${start}-${offset}.m3u8",Baby Time (Архив)
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
+#EXTGRP:Kids/Детские
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+#EXTINF:0 tvg-id="Cartoon Classics",Cartoon Classics
+#EXTGRP:Kids/Детские
+http://88.218.242.237:8000/play/a00f
+#EXTINF:0 tvg-id="Cartoonito"  tvg-logo="http://troya.info/images/chIcons/486.png"  timeshift="6",Cartoonito
+#EXTGRP:Kids/Детские
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+#EXTGRP:Kids/Детские
+#EXTINF:0 tvg-id="Cartoonito"  tvg-logo="http://troya.info/images/chIcons/486.png"  timeshift="6",Cartoonito HD
+#EXTGRP:Kids/Детские
+http://stream01.vnet.am/Channel_120/mono.m3u8
+#EXTINF:0 tvg-id="Cartoon Network"  tvg-logo="http://troya.info/images/chIcons/81.png"  timeshift="6",Cartoon Network
+#EXTGRP:Kids/Детские
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Duck"  tvg-logo="http://troya.info/images/chIcons/707.png"  timeshift="6",Duck
+#EXTGRP:Kids/Детские
+https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Duck HD"  tvg-logo="http://troya.info/images/chIcons/707.png"  timeshift="6",Duck HD
+#EXTGRP:Kids/Детские
+http://82.215.111.227/1271/index.m3u8
+#EXTINF:0 tvg-id="FamilyJam HD",FamilyJam HD
+#EXTGRP:Kids/Детские
+http://88.218.242.237:8000/play/a00b
+#EXTINF:0 tvg-id="Gulli Girl",Gulli Girl
+#EXTGRP:Kids/Детские
+http://86.57.198.251:8181/play/1091/index.m3u8
+#EXTINF:0 tvg-id="Kids TV HD",Kids TV HD
+#EXTGRP:Kids/Детские
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon"  tvg-logo="http://troya.info/images/chIcons/479.png"  timeshift="6",Nickelodeon
+#EXTGRP:Kids/Детские
+http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Nickelodeon HD"  tvg-logo="http://troya.info/images/chIcons/479.png"  timeshift="6",Nickelodeon HD
+#EXTGRP:Kids/Детские
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:0 tvg-id="Nick Jr"  tvg-logo="http://troya.info/images/chIcons/379.png"  timeshift="6",Nick Jr
+#EXTGRP:Kids/Детские
+http://95.142.88.250:80/Nick_Jr./index.m3u8
+#EXTINF:0 tvg-id="Nicktoons"  tvg-logo="http://troya.info/images/chIcons/479.png"  timeshift="6",Nicktoons
+#EXTGRP:Kids/Детские
+http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:0 tvg-id="TiJi"  tvg-logo="http://troya.info/images/chIcons/42.png"  timeshift="6",TiJi
+#EXTGRP:Kids/Детские
+http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png",.black
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Red.png",.red
+#EXTGRP:Movies/Кино
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png",.sci-fi
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a02q
+#EXTINF:0 tvg-id="",Блокбастер
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Блокбастер HD
+#EXTGRP:Movies/Кино
+http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png",Видеокассета
+#EXTGRP:Movies/Кино
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png",Всё тв
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/153640.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium.png",Дом кино Премиум
+#EXTGRP:Movies/Кино
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Дорама
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Еврокино
+#EXTGRP:Movies/Кино
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:0 tvg-id="",Иллюзион+
+#EXTGRP:Movies/Кино
+http://31.210.208.171:8080/illuzion_plus/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",Индийское кино
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Индия
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Камеди
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/Camedi/index.m3u8?token=test
+#EXTINF:0 tvg-id="kineko",Кинеко
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/Fox/index.m3u8
+#EXTINF:0 tvg-id="kineko",Кинеко HD
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a03d
+#EXTINF:0 tvg-id="",Кино и сериалы (СМОТРИМ)
+#EXTGRP:Movies/Кино
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:0 tvg-id="",Кино и сериалы HD (СМОТРИМ)
+#EXTGRP:Movies/Кино
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:0 tvg-id="",Кино 1 International
+#EXTGRP:Movies/Кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="",Кино без границ
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:0 tvg-id="",Кино ТВ
+#EXTGRP:Movies/Кино
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Кино ТВ +4
+#EXTGRP:Movies/Кино
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
+#EXTINF:0 tvg-id="",Кино ТВ HD
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:0 tvg-id="",Кино ТВ HD +7
+#EXTGRP:Movies/Кино
+http://live-3.otcnet.ru/kinotvplus7/index.m3u8
+#EXTINF:0 tvg-id="",Кинокомедия
+#EXTGRP:Movies/Кино
+http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
+#EXTINF:0 tvg-id="",Кинокомедия HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Киноман
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Киномикс HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Кинопоказ
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Кинопремьера
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/35/index.m3u8
+#EXTINF:0 tvg-id="",Кинопремьера HD
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Киносерия
+#EXTGRP:Movies/Кино
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",Киносезон HD
+#EXTGRP:Movies/Кино
+https://s83.chas.tv:8082/chas/kinosezon.stream/playlist.m3u8
+#EXTINF:0 tvg-id="",Киносвидание
+#EXTGRP:Movies/Кино
+http://86.57.198.251:8181/play/1028/index.m3u8
+#EXTINF:0 tvg-id="",Киносвидание HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7245
+#EXTINF:0 tvg-id="",Киносемья
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Киноужас
+#EXTGRP:Movies/Кино
+http://109.200.130.123:7537/play/a021
+#EXTINF:0 tvg-id="",Киноужас HD
+#EXTGRP:Movies/Кино
+http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
+#EXTINF:0 tvg-id="",Кинохит
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#EXTINF:0 tvg-id="",Кинохит HD
+#EXTGRP:Movies/Кино
+https://flussonic.salomtv.uz/Kinoxit/video.m3u8
+#EXTINF:0 tvg-id="",Комедия
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a03k
+#EXTINF:0 tvg-id="",Кошмар
+#EXTGRP:Movies/Кино
+http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:0 tvg-id="",Лавстори HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a00v
+#EXTINF:0 tvg-id="",Лен ТВ
+#EXTGRP:Movies/Кино
+http://45.10.245.151:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-id="",Любимое кино
+#EXTGRP:Movies/Кино
+http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:0 tvg-id="",Мосфильм. Золотая коллекция
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7706/Mosfilm/index.m3u8
+#EXTINF:0 tvg-id="",Мосфильм. Золотая коллекция +4
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:0 tvg-id="",Мосфильм. Золотая коллекция HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7347
+#EXTINF:0 tvg-id="",Мужское кино
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Наше мужское HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Наше новое кино
+#EXTGRP:Movies/Кино
+http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Наш кинопоказ HD
+#EXTGRP:Movies/Кино
+http://77.235.1.17/nash_kinopokaz/index.m3u8
+#EXTINF:0 tvg-id="",НСТ
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a03c
+#EXTINF:0 tvg-id="",НСТ 
+#EXTGRP:Movies/Кино
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-id="ntv-xit",НТВ-Хит
+#EXTGRP:Movies/Кино
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-id="ntv-serial",НТВ-Сериал
+#EXTGRP:Movies/Кино
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Победа
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Премиальное HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7222
+#EXTINF:0 tvg-id="",Про любовь
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=iptv50na50
+#EXTINF:0 tvg-id="",Про любовь HD
+#EXTGRP:Movies/Кино
+http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
+#EXTINF:0 tvg-id="",Родное кино
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:0 tvg-id="",Русский бестселлер
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Русский детектив
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a03o
+#EXTINF:0 tvg-id="",Русский иллюзион
+#EXTGRP:Movies/Кино
+https://s83.chas.tv:8082/chas/rusillyuzion.stream/playlist.m3u8
+#EXTINF:0 tvg-id="",Русский роман
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/39/index.m3u8
+#EXTINF:0 tvg-id="",Русский роман HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Сампо360 ТВ
+#EXTGRP:Movies/Кино
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+#EXTINF:0 tvg-id="",Сапфир
+#EXTGRP:Movies/Кино
+http://109.200.130.123:7537/play/a028
+#EXTINF:0 tvg-id="",Сапфир HD
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a01e
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
+#EXTGRP:Movies/Кино
+https://v2.catcast.tv/content/45269/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноДетектив
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - Киноклассика
+#EXTGRP:Movies/Кино
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноКомедия
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноНовелла
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:0 tvg-id="",Сити Эдем — КиноМистика
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноСемья
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
+#EXTINF:0 tvg-id="",Сити Эдем — КиноЭкшен
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем ТВ
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/34246/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем Play
+#EXTGRP:Movies/Кино
+https://autopilot.catcast.tv/content/34100/index.m3u8
+#EXTINF:0 tvg-id="",Страшное HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7247
+#EXTINF:0 tvg-id="",СТРК
+#EXTGRP:Movies/Кино
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+#EXTINF:0 tvg-id="",СТРК HD
+#EXTGRP:Movies/Кино
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:0 tvg-id="",Тео ТВ
+#EXTGRP:Movies/Кино
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:0 tvg-id="",Хит HD
+#EXTGRP:Movies/Кино
+http://hls127.homeiptv.org:8880/XitHD/video.m3u8
+#EXTINF:0 tvg-id="",Ужастик
+#EXTGRP:Movies/Кино
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:0 tvg-id="",Феникс Плюс Кино
+#EXTGRP:Movies/Кино
+http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",Феникс Плюс Кино HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a007
+#EXTINF:0 tvg-id="",A1
+#EXTGRP:Movies/Кино
+http://45.143.108.104/AMEDIA1_SD/index.m3u8
+#EXTINF:0 tvg-id="",A2
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7707/A2/index.m3u8
+#EXTINF:0 tvg-id="",A2 HD
+#EXTGRP:Movies/Кино
+http://45.143.108.104/AMEDIA2_HD/index.m3u8
+#EXTINF:0 tvg-id="",Amedia Hit
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a02o
+#EXTINF:0 tvg-id="",Amedia Hit HD
+#EXTGRP:Movies/Кино
+http://stream01.vnet.am/Nauka/index.m3u8
+#EXTINF:0 tvg-id="",Amedia Premium
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Amedia Premium HD
+#EXTGRP:Movies/Кино
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:0 tvg-id="",Bollywood
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Bollywood HD
+#EXTGRP:Movies/Кино
+http://s7.merlive.am/Bollywood/index.m3u8
+#EXTINF:0 tvg-id="",Bolt
+#EXTGRP:Movies/Кино
+http://hls127.homeiptv.org:8880/Bolt/video.m3u8
+#EXTINF:0 tvg-id="",Cinema
+#EXTGRP:Movies/Кино
+http://31.210.208.171:8080/cinema/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",DetectiveJam HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a00a
+#EXTINF:0 tvg-id="",FAN
+#EXTGRP:Movies/Кино
+http://91.224.169.250:5000/c17
+#EXTINF:0 tvg-id="",FilmBox
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a03s
+#EXTINF:0 tvg-id="",FILM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:0 tvg-id="",FlixSnip
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/FlixSnip/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png",FMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Movies/Кино
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:0 tvg-id="",FX
+#EXTGRP:Movies/Кино
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:0 tvg-id="",FX Life
+#EXTGRP:Movies/Кино
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+#EXTINF:0 tvg-id="",FX Life HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7318
+#EXTINF:0 tvg-id="",Hollywood
+#EXTGRP:Movies/Кино
+https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Hollywood HD
+#EXTGRP:Movies/Кино
+http://130.193.73.10:8937/play/a02k
+#EXTINF:0 tvg-id="",Kinojam 1
+#EXTGRP:Movies/Кино
+http://95.142.88.250/KinoJam_1/index.m3u8
+#EXTINF:0 tvg-id="",Kinojam 1 HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7260
+#EXTINF:0 tvg-id="",Kinojam 2 HD
+#EXTGRP:Movies/Кино
+rtmp://5.182.229.90//7261
+#EXTINF:0 tvg-id="",Kinoliving
+#EXTGRP:Movies/Кино
+http://109.200.130.123:7537/play/a02k
+#EXTINF:0 tvg-id="",Romance HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a004
+#EXTINF:0 tvg-id="",SCR TV HD
+#EXTGRP:Movies/Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:0 tvg-id="",Scream HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a00c
+#EXTINF:0 tvg-id="",SeriesTV
+#EXTGRP:Movies/Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:0 tvg-id="",SD REX
+#EXTGRP:Movies/Кино
+http://195.26.83.96:7029/play/a008
+#EXTINF:0 tvg-id="",Shot TV
+#EXTGRP:Movies/Кино
+http://109.200.130.123:7537/play/a02b 
+#EXTINF:0 tvg-id="",Star Cinema
+#EXTGRP:Movies/Кино
+http://s7.merlive.am/starsinema/index.m3u8
+#EXTINF:0 tvg-id="devcm_89818e56c43df79a1ee43226_2024",Start Air HD
+#EXTGRP:Movies/Кино
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0 tvg-id="start-world",Start World
+#EXTGRP:Movies/Кино
+http://95.156.76.230:33001/udp/230.4.34.66:1234
+#EXTINF:0 tvg-id="devcm_da7baf7ffcb233bc32f43226_2024",Start World HD
+#EXTGRP:Movies/Кино
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:0 tvg-id="",Suspense
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a005
+#EXTINF:0 tvg-id="",Trash
+#EXTGRP:Movies/Кино
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+#EXTINF:0 tvg-id="",VHS-ка HD
+#EXTGRP:Movies/Кино
+http://88.218.242.237:8000/play/a00x
+#EXTINF:0 tvg-id="",Viasat Kino Comedy
+#EXTGRP:Movies/Кино
+https://wowza5.leisertv.com/live/vipcomedyhd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="",Viasat Kino World
+#EXTGRP:Movies/Кино
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:0 tvg-id="",Viju TV1000
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:0 tvg-id="",Viju TV1000 HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="devcm_425540f80176e2e4959a1165_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD (Архив)
+#EXTGRP:Movies/Кино
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:0 tvg-id="",Viju TV1000 Action
+#EXTGRP:Movies/Кино
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:0 tvg-id="",Viju TV1000 Action HD
+#EXTGRP:Movies/Кино
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Viju TV1000 Новелла
+#EXTGRP:Movies/Кино
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=5jd-tF7xOcinPfkDIU7hKw&e=1734068890&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0 tvg-id="",Viju TV1000 Романтика
+#EXTGRP:Movies/Кино
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=SOnTWK1QnNayTTAvCR5wWQ&e=1734629627&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0 tvg-id="",Viju TV1000 Русское кино
+#EXTGRP:Movies/Кино
+http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Viju+ Premiere
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/200/index.m3u8
+#EXTINF:0 tvg-id="",Viju+ Premiere HD
+#EXTGRP:Movies/Кино
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Viju+ Megahit HD
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/201/index.m3u8
+#EXTINF:0 tvg-id="",Viju+ Comedy
+#EXTGRP:Movies/Кино
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="",Viju+ Comedy HD
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/202/index.m3u8
+#EXTINF:0 tvg-id="",Viju+ Serial HD
+#EXTGRP:Movies/Кино
+http://193.242.190.6:8099/204/index.m3u8
+#EXTINF:0 tvg-id="",1HD
+#EXTGRP:Music/Музыка
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:0 tvg-id="",Жара
+#EXTGRP:Music/Музыка
+http://31.210.208.171:8080/jara/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="la-minor" tvg-id="",Ля-минор
+#EXTGRP:Music/Музыка
+http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="muztv",Муз ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Music/Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="muztv",Муз ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Music/Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:0 tvg-id="",Музыка Первого
+#EXTGRP:Music/Музыка
+http://31.148.48.15:80/Muzika_Pervogo/index.m3u8?token=test
+#EXTINF:0 tvg-id="",О!2
+#EXTGRP:Music/Музыка
+http://flu.ttk.mx:90/O2TV/mono.m3u8?token=hs06e
+#EXTINF:0 tvg-id="",Первый Музыкальный
+#EXTGRP:Music/Музыка
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="",Первый Музыкальный HD
+#EXTGRP:Music/Музыка
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="",Первый Музыкальный Россия 
+#EXTGRP:Music/Музыка
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-id="",Первый Музыкальный Россия
+#EXTGRP:Music/Музыка
+https://tgn.bozztv.com/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Первый Музыкальный Россия HD
+#EXTGRP:Music/Музыка
+http://rtmp.one.by:2300
+#EXTINF:0 tvg-id="",Русский корабль
+#EXTGRP:Music/Музыка
+https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="",Телеканал Радио Страна ФМ
+#EXTGRP:Music/Музыка
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="shanson-tv",Шансон-ТВ
+#EXTGRP:Music/Музыка
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/934720615298236416/G_VUWXnh_400x400.jpg",Afrobeats TV
+#EXTGRP:Music/Музыка
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Bridge TV
+#EXTGRP:Music/Музыка
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="",Bridge TV Classic
+#EXTGRP:Music/Музыка
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Bridge TV Deluxe
+#EXTGRP:Music/Музыка
+http://31.210.208.171:8080/bridge_hd/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",Bridge TV Hits HD
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+#EXTGRP:Music/Музыка
+https://s83.chas.tv:8082/chas/bridgetvhitstv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png",Bridge TV Rock
+#EXTGRP:Music/Музыка
+http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Bridge TV Русский Хит
+#EXTGRP:Music/Музыка
+http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:0 tvg-id="",Bridge TV Шлягер
+#EXTGRP:Music/Музыка
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
+#EXTINF:0 tvg-id="bridge-tv-fresh" tvg-id="",Bridge TV Фрэш
+#EXTGRP:Music/Музыка
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+#EXTGRP:Music/Музыка
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+#EXTGRP:Music/Музыка
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:0 tvg-id="clubbing-tv" tvg-id="",Clubbing TV
+#EXTGRP:Music/Музыка
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="",Company TV HD
+#EXTGRP:Music/Музыка
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
+#EXTGRP:Music/Музыка
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:0 tvg-id="",Deluxe Dance
+#EXTGRP:Music/Музыка
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 tvg-id="",Deluxe Music
+#EXTGRP:Music/Музыка
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 tvg-id="",Europa Plus TV
+#EXTGRP:Music/Музыка
+http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="",First Music Channel HD
+#EXTGRP:Music/Музыка
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="",Kiss Kiss TV
+#EXTGRP:Music/Музыка
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png",Kiss TV
+#EXTGRP:Music/Музыка
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:0 tvg-id="",Kronehit
+#EXTGRP:Music/Музыка
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="",Kronehit HD
+#EXTGRP:Music/Музыка
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="",MCM Top
+#EXTGRP:Music/Музыка
+http://109.200.130.123:7537/play/a029
+#EXTINF:0 tvg-id="",MIXM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Music/Музыка
+https://hls.goodgame.ru/hls/181490.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Mega Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Music/Музыка
+https://hls.goodgame.ru/hls/175789.m3u8
+#EXTINF:0 tvg-id="",MTV Live HD
+#EXTGRP:Music/Музыка
+http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:0 tvg-id="",MTV 80's
+#EXTGRP:Music/Музыка
+http://213.226.137.140:81/tl/l108/mpegts
+#EXTINF:0 tvg-id="",MTV 90's
+#EXTGRP:Music/Музыка
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Music Box Russia
+#EXTGRP:Music/Музыка
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:0 tvg-id="",MusicBox Gold
+#EXTGRP:Music/Музыка
+http://37.205.83.56:81/udp/239.54.5.7:1224
+#EXTINF:0 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik TV
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik ELECTRO
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:0 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik FLASHBACK
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0 tvg-id="MOBA.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik MOBA
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png",Muzzik POP STAR
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Rock&Roll
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0 tvg-id="SENSE.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik SENSE
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:0 tvg-id="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik TIK TAK
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0 tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik ZZ TV
+#EXTGRP:Music/Музыка
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTGRP:Music/Музыка
+#EXTINF:0 tvg-id="",Muzzik WWM
+#EXTGRP:Music/Музыка
+http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0 tvg-id="NickMusic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",Nick Music
+#EXTGRP:Music/Музыка
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:0 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
+#EXTGRP:Music/Музыка
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80's
+#EXTGRP:Music/Музыка
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png",Now Rock
+#EXTGRP:Music/Музыка
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="",NRG 91 HD
+#EXTGRP:Music/Музыка
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:0 tvg-id="",Radio Ibiza TV
+#EXTGRP:Music/Музыка
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:0 tvg-id="",Radio Love FM
+#EXTGRP:Music/Музыка
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="",Radio M2O
+#EXTGRP:Music/Музыка
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:0 tvg-id="",Retro Music
+#EXTGRP:Music/Музыка
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
+#EXTGRP:Music/Музыка
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:0 tvg-id="",RTL 102.5 Bro & Sis
+#EXTGRP:Music/Музыка
+http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
+#EXTINF:0 tvg-id="",RU.TV HD
+#EXTGRP:Music/Музыка
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:0 tvg-id="",R-Music
+#EXTGRP:Music/Музыка
+https://otv.wotom.net/rmusic/stream.m3u8
+#EXTINF:0 tvg-id="",Ocko
+#EXTGRP:Music/Музыка
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="",Ocko Expres
+#EXTGRP:Music/Музыка
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="",Ocko Star
+#EXTGRP:Music/Музыка
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="",Play TV
+#EXTGRP:Music/Музыка
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:0 tvg-id="",Spirit TV
+#EXTGRP:Music/Музыка
+http://dmi3y-tv.ru/hls/CH_SPIRITTV.m3u8
+#EXTINF:0 tvg-id="",Spirit TV HD
+#EXTGRP:Music/Музыка
+http://dmi3y-tv.ru/hls/CH_SPIRITTVHD720.m3u8
+#EXTINF:0 tvg-id="",Stingray CMusic
+#EXTGRP:Music/Музыка
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:0 tvg-id="TheUltimateMusicChannel.us" tvg-logo="https://i.ytimg.com/vi/nr8mH8PQmt0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgQyhIMA8=&rs=AOn4CLAXqg6UODpKP2xNj-pbCndyv_qdDQ",The Ultimate Music Channel
+#EXTGRP:Music/Музыка
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",Techno Dance Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Music/Музыка
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:0 tvg-logo="ТНТ Music" tvg-id="ТНТ_Music",ТНТ Music 
+#EXTGRP:Music/Музыка
+http://31.148.48.15:80/TNT_Music/index.m3u8?token=test
+#EXTINF:0 tvg-id="",ТНТ Music HD
+#EXTGRP:Music/Музыка
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png",Trance Is Star Radio
+#EXTGRP:Music/Музыка
+https://myradio24.org/tisradio_video.m3u8
+#EXTINF:0 tvg-id="",TMF RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:Music/Музыка
+https://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:0 tvg-id="",Trace Urban
+#EXTGRP:Music/Музыка
+http://dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
+#EXTINF:0 tvg-id="",Trace Urban HD
+#EXTGRP:Music/Музыка
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-id="",V2BEAT
+#EXTGRP:Music/Музыка
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:0 channel-id="SamsungTVPlus-USBD300011KQ" tvg-name="Vevo '70s" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" tvg-chno="4388",Vevo '70s
+#EXTGRP:Music/Музыка
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+#EXTINF:0 channel-id="SamsungTVPlus-USBD300012YC" tvg-name="Vevo '80s" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240910T003724SQUARE.png" tvg-chno="4391",Vevo '80s
+#EXTGRP:Music/Музыка
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3000133M" tvg-name="Vevo '90s" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240910T003727SQUARE.png" tvg-chno="4394",Vevo '90s
+#EXTGRP:Music/Музыка
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+#EXTINF:0 channel-id="SamsungTVPlus-USBD120002431" tvg-name="Vevo 2010s" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240910T003711SQUARE.png" tvg-chno="4400",Vevo 2010s
+#EXTGRP:Music/Музыка
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+#EXTINF:0 channel-id="SamsungTVPlus-USBB4400015F5" tvg-name="Vevo 2K" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240910T003709SQUARE.png" tvg-chno="4397",Vevo 2K
+#EXTGRP:Music/Музыка
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+#EXTINF:0 channel-id="SamsungTVPlus-USBC3600001RQ" tvg-name="Vevo Country" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240910T003714SQUARE.png" tvg-chno="4415",Vevo Country
+#EXTGRP:Music/Музыка
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+#EXTINF:0 channel-id="SamsungTVPlus-USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240910T003717SQUARE.png" tvg-chno="4409",Vevo Hip-Hop
+#EXTGRP:Music/Музыка
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+#EXTINF:0 channel-id="SamsungTVPlus-USBD1200008GL" tvg-name="Vevo Holiday" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241105T024425SQUARE.png" tvg-chno="4421",Vevo Holiday
+#EXTGRP:Music/Музыка
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+#EXTINF:0 channel-id="SamsungTVPlus-USBC3600015GF" tvg-name="Vevo Latino" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" tvg-chno="4406",Vevo Latino
+#EXTGRP:Music/Музыка
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+#EXTINF:0 channel-id="SamsungTVPlus-USBC3600008WY" tvg-name="Vevo Pop" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png" tvg-chno="4418",Vevo Pop
+#EXTGRP:Music/Музыка
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+#EXTINF:0 channel-id="SamsungTVPlus-USBC3900009K5" tvg-name="Vevo R&B" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240924T011030SQUARE.png" tvg-chno="4412",Vevo R&B
+#EXTGRP:Music/Музыка
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3000145P" tvg-name="Vevo Retro Rock" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" tvg-chno="4403",Vevo Retro Rock
+#EXTGRP:Music/Музыка
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+#EXTINF:0 tvg-id="",Viva TV Russia
+#EXTGRP:Music/Музыка
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:0 channel-id="SamsungTVPlus-USBB320000647" tvg-name="XITE 80s Flashback" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" tvg-chno="4313",XITE 80s Flashback
+#EXTGRP:Music/Музыка
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
+#EXTINF:0 channel-id="SamsungTVPlus-USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" tvg-chno="4318",XITE 90s Throwback
+#EXTGRP:Music/Музыка
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
+#EXTINF:0 channel-id="SamsungTVPlus-USBD350003932" tvg-name="XITE Celebrates" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" tvg-chno="4310",XITE Celebrates
+#EXTGRP:Music/Музыка
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300011UT" tvg-name="XITE Classic Country" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" tvg-chno="4333",XITE Classic Country
+#EXTGRP:Music/Музыка
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300006O3" tvg-name="XITE Country Today" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" tvg-chno="4328",XITE Country Today
+#EXTGRP:Music/Музыка
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300004RH" tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" tvg-chno="4323",XITE Hits
+#EXTGRP:Music/Музыка
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300005EX" tvg-name="XITE Icons" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" tvg-chno="4358",XITE Icons
+#EXTGRP:Music/Музыка
+https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
+#EXTINF:0 channel-id="SamsungTVPlus-USBB2300003JZ" tvg-name="XITE Just Chill" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" tvg-chno="4363",XITE Just Chill
+#EXTGRP:Music/Музыка
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300007PB" tvg-name="XITE Nuevo Latino" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png" tvg-chno="4338",XITE Nuevo Latino
+#EXTGRP:Music/Музыка
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300008DG" tvg-name="XITE Only Love" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" tvg-chno="4368",XITE Only Love
+#EXTGRP:Music/Музыка
+https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300008DG
+#EXTINF:0 channel-id="SamsungTVPlus-USBD330000948" tvg-name="XITE R&B Classic Jams" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" tvg-chno="4348",XITE R&B Classic Jams
+#EXTGRP:Music/Музыка
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
+#EXTINF:0 channel-id="SamsungTVPlus-USBB2300004KV" tvg-name="XITE Rock x Metal" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" tvg-chno="4353",XITE Rock x Metal
+#EXTGRP:Music/Музыка
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
+#EXTINF:0 channel-id="SamsungTVPlus-USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" tvg-chno="4343",XITE Siempre Latino
+#EXTGRP:Music/Музыка
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+#EXTINF:0 tvg-id="Zerouno TV Music",Zerouno TV Music
+#EXTGRP:Music/Музыка
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:0 tvg-id="360° Новости HD",360° Новости HD
+#EXTGRP:News/Новости
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 tvg-id="Известия",Известия
+#EXTGRP:News/Новости
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="Крик ТВ",Крик ТВ
+#EXTGRP:News/Новости
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0 tvg-id="Кубань 24",Кубань 24
+#EXTGRP:News/Новости
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:0 tvg-id="Мир 24 HD",Мир 24 HD
+#EXTGRP:News/Новости
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Москва 24",Москва 24
+#EXTGRP:News/Новости
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="Первый информационный",Первый информационный
+#EXTGRP:News/Новости
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:0 tvg-id="РБК",РБК
+#EXTGRP:News/Новости
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24" group-title="Новости",Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:News/Новости
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0 tvg-id="Соловьёв.Live HD",Соловьёв.Live HD
+#EXTGRP:News/Новости
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:0 tvg-id="Авто 24",Авто 24
+#EXTGRP:Hobby/Хобби
+http://82.215.111.227/1430/index.m3u8
+#EXTINF:0 tvg-id="Авто Плюс",Авто Плюс
+#EXTGRP:Hobby/Хобби
+http://82.215.111.227/1036/index.m3u8
+#EXTINF:0 tvg-id="Аппетитный",Аппетитный
+#EXTGRP:Hobby/Хобби
+http://185.50.148.2:7703/Motorsport/index.m3u8
+#EXTINF:0 tvg-id="bobior",Бобëр
+#EXTGRP:Hobby/Хобби
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:0 tvg-id="Диалоги о рыбалке",Диалоги о рыбалке
+#EXTGRP:Hobby/Хобби
+http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
+#EXTINF:0 tvg-id="Дикая охота HD",Дикая охота HD
+#EXTGRP:Hobby/Хобби
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:0 tvg-id="Дикая рыбалка HD",Дикая рыбалка HD
+#EXTGRP:Hobby/Хобби
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:0 tvg-id="Дикий",Дикий
+#EXTGRP:Hobby/Хобби
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Драйв",Драйв
+#EXTGRP:Hobby/Хобби
+http://77.235.1.17/drive/index.m3u8
+#EXTINF:0 tvg-id="Еда",Еда
+#EXTGRP:Hobby/Хобби
+http://88.218.242.237:8000/play/a00r
+#EXTINF:0 tvg-id="Живи Активно",Живи Активно
+#EXTGRP:Hobby/Хобби
+https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="zagorodnaya-zhizn",Загородная жизнь
+#EXTGRP:Hobby/Хобби
+http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Загородный",Загородный
+#EXTGRP:Hobby/Хобби
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:0 tvg-id="Конный мир",Конный мир
+#EXTGRP:Hobby/Хобби
+http://77.235.1.17/konniy_mir/index.m3u8
+#EXTINF:0 tvg-id="Кухня HD",Кухня HD
+#EXTGRP:Hobby/Хобби
+http://88.218.242.237:8000/play/a00s
+#EXTINF:0 tvg-id="Лапки Live",Лапки Live
+#EXTGRP:Hobby/Хобби
+http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:0 tvg-id="Мужской",Мужской
+#EXTGRP:Hobby/Хобби
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:0 tvg-id="НТВ Стиль",НТВ Стиль
+#EXTGRP:Hobby/Хобби
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-id="Оружие",Оружие
+#EXTGRP:Hobby/Хобби
+http://91.194.191.241:8081/chid115/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Охота и рыбалка",Охота и рыбалка
+#EXTGRP:Hobby/Хобби
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Охотник и рыболов",Охотник и рыболов
+#EXTGRP:Hobby/Хобби
+https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Охотник и рыболов HD",Охотник и рыболов HD
+#EXTGRP:Hobby/Хобби
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:0 tvg-id="Первый вегетарианский",Первый вегетарианский
+#EXTGRP:Hobby/Хобби
+http://88.85.172.243:7012/play/a02m
+#EXTINF:0 tvg-id="Пес и Ко",Пес и Ко
+#EXTGRP:Hobby/Хобби
+http://88.218.242.237:8000/play/a00o
+#EXTINF:0 tvg-id="Рыболов",Рыболов
+#EXTGRP:Hobby/Хобби
+http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
+#EXTINF:0 tvg-id="Телекафе",Телекафе
+#EXTGRP:Hobby/Хобби
+http://94.230.128.105:8080/Telekafe/index.m3u8
+#EXTINF:0 tvg-id="Усадьба",Усадьба
+#EXTGRP:Hobby/Хобби
+http://178.124.179.122:8088/Usadba/index.m3u8
+#EXTINF:0 tvg-id="CGTN русский",CGTN русский
+#EXTGRP:Hobby/Хобби
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:0 tvg-id="e-tv",E HD
+#EXTGRP:Hobby/Хобби
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Fashion & Lifestyle HD",Fashion & Lifestyle HD
+#EXTGRP:Hobby/Хобби
+http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Fashion TV HD",Fashion TV HD
+#EXTGRP:Hobby/Хобби
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:0 tvg-id="Fashion TV UHD",Fashion TV UHD
+#EXTGRP:Hobby/Хобби
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:0 tvg-id="World Fashion Channel",World Fashion Channel
+#EXTGRP:Hobby/Хобби
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:0 tvg-id="Астрахань Спорт" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png",Астрахань Спорт
+#EXTGRP:Sport/Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="Беларусь 5 Интернет",Беларусь 5 Интернет
+#EXTGRP:Sport/Спорт
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:0 tvg-id="Бокс ТВ",Бокс ТВ
+#EXTGRP:Sport/Спорт
+http://77.235.1.17/box_tv/index.m3u8
+#EXTINF:0 tvg-id="Бокс ТВ HD",Бокс ТВ HD
+#EXTGRP:Sport/Спорт
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv",Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Sport/Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv",Матч! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Sport/Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
+#EXTINF:0 tvg-id="Матч!",Матч!
+#EXTGRP:Sport/Спорт
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Матч! HD",Матч! HD
+#EXTGRP:Sport/Спорт
+http://77.235.1.17/match/index.m3u8
+#EXTINF:0 tvg-id="Матч! Арена",Матч! Арена
+#EXTGRP:Sport/Спорт
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:0 tvg-id="Матч! Боец",Матч! Боец
+#EXTGRP:Sport/Спорт
+http://87.120.142.11:18000/Match!
+#EXTINF:0 tvg-id="Матч! Игра",Матч! Игра
+#EXTGRP:Sport/Спорт
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:0 tvg-id="Матч! Планета",Матч! Планета
+#EXTGRP:Sport/Спорт
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:0 tvg-id="Матч! Премьер",Матч! Премьер
+#EXTGRP:Sport/Спорт
+http://77.235.1.17/match_premier/index.m3u8
+#EXTINF:0 tvg-id="Матч! Премьер HD",Матч! Премьер HD
+#EXTGRP:Sport/Спорт
+http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+#EXTINF:0 tvg-id="Матч! Страна",Матч! Страна
+#EXTGRP:Sport/Спорт
+http://193.242.204.28:10099/99
+#EXTINF:0 tvg-id="Матч! Футбол 1",Матч! Футбол 1
+#EXTGRP:Sport/Спорт
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:0 tvg-id="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+#EXTGRP:Sport/Спорт
+http://193.242.204.28:10100/100
+#EXTINF:0 tvg-id="Матч! Футбол 2",Матч! Футбол 2
+#EXTGRP:Sport/Спорт
+http://193.242.204.28:10101/101
+#EXTINF:0 tvg-id="Матч! Футбол 3",Матч! Футбол 3
+#EXTGRP:Sport/Спорт
+http://185.57.68.33/110/mpegts
+#EXTINF:0 tvg-id="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+#EXTGRP:Sport/Спорт
+http://193.242.204.28:10102/102
+#EXTINF:0 tvg-id="Мир баскетбола",Мир баскетбола
+#EXTGRP:Sport/Спорт
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:0 tvg-id="Мир баскетбола HD",Мир баскетбола HD
+#EXTGRP:Sport/Спорт
+http://88.218.242.237:8000/play/a00e
+#EXTINF:0 tvg-id="Мяч",Мяч
+#EXTGRP:Sport/Спорт
+http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="Старт",Старт
+#EXTGRP:Sport/Спорт
+http://185.23.80.28:8080/START/index.m3u8?token=test
+#EXTINF:0 tvg-id="Старт HD",Старт HD
+#EXTGRP:Sport/Спорт
+http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Старт Триумф HD",Старт Триумф HD
+#EXTGRP:Sport/Спорт
+http://88.218.242.237:8000/play/a00d
+#EXTINF:0 tvg-id="Удар",Удар
+#EXTGRP:Sport/Спорт
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:0 tvg-id="Футбол",Футбол
+#EXTGRP:Sport/Спорт
+http://185.23.80.28:8080/Football/index.m3u8?token=test
+#EXTINF:0 tvg-id="Футбол HD",Футбол HD
+#EXTGRP:Sport/Спорт
+https://kinescope.io/dwy2fEmxCjP4urMH7A6GSa/master.m3u8
+#EXTINF:0 tvg-id="Eurosport 1",Eurosport 1
+#EXTGRP:Sport/Спорт
+https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Eurosport 1 HD",Eurosport 1 HD
+#EXTGRP:Sport/Спорт
+http://45.132.87.69:8080/eurosport1/mono.m3u8
+#EXTINF:0 tvg-id="Eurosport 2",Eurosport 2
+#EXTGRP:Sport/Спорт
+http://77.235.1.17/eurosport_2/index.m3u8
+#EXTINF:0 tvg-id="Eurosport 2 HD",Eurosport 2 HD
+#EXTGRP:Sport/Спорт
+rtmp://5.182.229.90//7203
+#EXTINF:0 tvg-id="Extreme Sports",Extreme Sports
+#EXTGRP:Sport/Спорт
+http://94.230.128.105:8080/extreme_sport/index.m3u8
+#EXTINF:0 tvg-id="Fast&FunBox",Fast&FunBox
+#EXTGRP:Sport/Спорт
+http://95.156.76.230:33001/udp/230.4.34.86:1234
+#EXTINF:0 tvg-id="FightBox",FightBox
+#EXTGRP:Sport/Спорт
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:0 tvg-id="Golf Channel English",Golf Channel English
+#EXTGRP:Sport/Спорт
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:0 tvg-id="kxl",KHL
+#EXTGRP:Sport/Спорт
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:0 tvg-id="kxl-hd",KHL Prime HD
+#EXTGRP:Sport/Спорт
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:0 tvg-id="m1global",MMA-TV
+#EXTGRP:Sport/Спорт
+https://stream1.cinerama.uz/1027/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Premier Sports 1",Premier Sports 1
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/prsport1
+#EXTINF:0 tvg-id="Premier Sports 2",Premier Sports 2
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/prsport2
+#EXTINF:0 tvg-id="Russian Extreme",Russian Extreme
+#EXTGRP:Sport/Спорт
+http://91.224.169.250:5000/c61
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="russian-extreme-uhd",Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTGRP:Sport/Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:0 tvg-id="Setanta Sports 1",Setanta Sports 1
+#EXTGRP:Sport/Спорт
+rtmp://92.119.88.58//271
+#EXTINF:0 tvg-id="Setanta Sports 1 HD",Setanta Sports 1 HD
+#EXTGRP:Sport/Спорт
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Setanta Sports 2",Setanta Sports 2
+#EXTGRP:Sport/Спорт
+rtmp://92.119.88.58//270
+#EXTINF:0 tvg-id="Setanta Sports 2 HD",Setanta Sports 2 HD
+#EXTGRP:Sport/Спорт
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Setanta Sports+ Qazaqstan",Setanta Sports+ Qazaqstan
+#EXTGRP:Sport/Спорт
+http://194.26.229.213/TUDN_Setanta-Qazaqstan/index.m3u8?token=Panda
+#EXTINF:0 tvg-id="Sky Sports 1 NZ",Sky Sports 1 NZ
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/skyspt1nz
+#EXTINF:0 tvg-id="Sky Sports 2 NZ",Sky Sports 2 NZ
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/skyspt2nz
+#EXTINF:0 tvg-id="Sky Sports 3 NZ",Sky Sports 3 NZ
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/skyspt3nz
+#EXTINF:0 tvg-id="Sky Sports 4 NZ",Sky Sports 4 NZ
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/skyspt4nz
+#EXTINF:0 tvg-id="sky-sports-action",Sky Sports Action
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportsat
+#EXTINF:0 tvg-id="Sky Sports Golf",Sky Sports Golf
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportsgf
+#EXTINF:0 tvg-id="Sky Sports F1",Sky Sports F1
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportsf1
+#EXTINF:0 tvg-id="Sky Sports F1 UHD",Sky Sports F1 UHD
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/SSF1uhd
+#EXTINF:0 tvg-id="Sky Sports Football",Sky Sports Football
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportsfb
+#EXTINF:0 tvg-id="Sky Sports Main Event",Sky Sports Main Event
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/skspmaine
+#EXTINF:0 tvg-id="Sky Sports News",Sky Sports News
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportsnw
+#EXTINF:0 tvg-id="Sky Sports Premier League",Sky Sports Premier League
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/ssportspl
+#EXTINF:0 tvg-id="TNT Sport 1",TNT Sport 1
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/tntspts1
+#EXTINF:0 tvg-id="TNT Sport 2",TNT Sport 2
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/tntspts2
+#EXTINF:0 tvg-id="TNT Sport 3",TNT Sport 3
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/tntspts3
+#EXTINF:0 tvg-id="TNT Sport 4",TNT Sport 4
+#EXTGRP:Sport/Спорт
+https://7pal.short.gy/tntspts4
+#EXTINF:0 tvg-id="Viju+ Sport",Viju+ Sport
+#EXTGRP:Sport/Спорт
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
