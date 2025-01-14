@@ -206,6 +206,9 @@ http://ru.troya.info:34000/ch634/mono.m3u8?token=chessster.LKhSGZzj4uDyfD0PwF-Ck
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:0 tvg-name="Мультимузыка" tvg-logo="http://troya.info/images/chIcons/484.png" tvg-rec="6", Мультимузыка
 #EXTGRP:2. Kids/Детские
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:0 tvg-name="Мультимузыка" tvg-logo="http://troya.info/images/chIcons/484.png" tvg-rec="6", Мультимузыка (Alternative)
+#EXTGRP:2. Kids/Детские
 http://ru.troya.info:34000/ch484/mono.m3u8?token=chessster.LKhSGZzj4uDyfD0PwF-Ck6QOVH9L_262fUXYw2gjUi5peIDHE9svkCIcnZR6NIZ8
 #EXTINF:0 tvg-name="Канал О" tvg-logo="http://troya.info/images/chIcons/323.png" tvg-rec="6", Канал О
 #EXTGRP:2. Kids/Детские
