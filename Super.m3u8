@@ -3532,9 +3532,6 @@ http://130.193.73.10:8937/play/a03s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 #EXTGRP:3. Movies/Кино
 https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:0 tvg-id="",FlixSnip
-#EXTGRP:3. Movies/Кино
-http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png",FMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 #EXTGRP:3. Movies/Кино
@@ -3554,9 +3551,6 @@ rtmp://5.182.229.90//7260
 #EXTINF:0 tvg-id="",Kinojam 2 HD
 #EXTGRP:3. Movies/Кино
 rtmp://5.182.229.90//7261
-#EXTINF:0 tvg-id="",Kinoliving
-#EXTGRP:3. Movies/Кино
-http://109.200.130.123:7537/play/a02k
 #EXTINF:0 tvg-id="",Romance HD
 #EXTGRP:3. Movies/Кино
 http://88.218.242.237:8000/play/a004
@@ -3571,9 +3565,6 @@ https://hls.goodgame.ru/hls/186021.m3u8
 #EXTINF:0 tvg-id="",SD REX
 #EXTGRP:3. Movies/Кино
 http://195.26.83.96:7029/play/a008
-#EXTINF:0 tvg-id="",Shot TV
-#EXTGRP:3. Movies/Кино
-http://109.200.130.123:7537/play/a02b 
 #EXTINF:0 tvg-id="",Star Cinema
 #EXTGRP:3. Movies/Кино
 http://s7.merlive.am/starsinema/index.m3u8
