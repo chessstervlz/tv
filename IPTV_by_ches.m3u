@@ -1765,6 +1765,7 @@ https://7pal.short.gy/tntspts4
 #EXTGRP:Sport/Спорт
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 
+#EXTINF:0 tvg-name="Ну, Погоди! (телевыпуск 1)" tvg-rec="3", Ну, Погоди! (телевыпуск 1)
 #EXTGRP:Ну, Погоди!
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
 #EXTINF:0 tvg-name="Ну, Погоди! (телевыпуск 2,3)" tvg-rec="3", Ну, Погоди! (телевыпуск 2,3)
