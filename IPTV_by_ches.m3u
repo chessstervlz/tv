@@ -651,6 +651,12 @@ http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
 https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTINF:0,Alpha Cinema
+#EXTGRP:Movies/Кино
+http://hlss.goodgame.ru/hls/205072.m3u8
+#EXTINF:0,Alpha Moretime
+#EXTGRP:Movies/Кино
+http://hlss.goodgame.ru/hls/205116.m3u8
 #EXTGRP:Movies/Кино
 https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Black.png",.black
