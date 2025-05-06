@@ -3450,14 +3450,146 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTGRP:2. Kids/Детские
 http://stream01.vnet.am/Boomerang/mono.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+#EXTINF:0 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg",1FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:3. Movies/Кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg",2FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:3. Movies/Кино
+https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:3. Movies/Кино
 http://hlss.goodgame.ru/hls/205072.m3u8
 #EXTINF:0,Alpha Moretime
 #EXTGRP:3. Movies/Кино
 http://hlss.goodgame.ru/hls/205116.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png",Видеокассета
+#EXTGRP:3. Movies/Кино
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:0 tvg-id="",Кино и сериалы (СМОТРИМ)
+#EXTGRP:3. Movies/Кино
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:0 tvg-id="",Кино и сериалы HD (СМОТРИМ)
+#EXTGRP:3. Movies/Кино
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:0 tvg-id="",Кино 1 International
+#EXTGRP:3. Movies/Кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="",Кино без границ
+#EXTGRP:3. Movies/Кино
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:0 tvg-id="",Кошмар
+#EXTGRP:3. Movies/Кино
+http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:0 tvg-id="",Лавстори HD
+#EXTGRP:3. Movies/Кино
+http://88.218.242.237:8000/play/a00v
+#EXTINF:0 tvg-id="",Лен ТВ
+#EXTGRP:3. Movies/Кино
+http://45.10.245.151:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-id="",Победа
+#EXTGRP:3. Movies/Кино
+http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
+#EXTINF:0 tvg-id="",Сити Эдем — КиноДетектив
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - Киноклассика
+#EXTGRP:3. Movies/Кино
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноКомедия
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноНовелла
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:0 tvg-id="",Сити Эдем — КиноМистика
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:0 tvg-id="",Сити Эдем — КиноСемья
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
+#EXTINF:0 tvg-id="",Сити Эдем — КиноЭкшен
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:0 tvg-id="",Ужастик
+#EXTGRP:3. Movies/Кино
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:3. Movies/Кино
+https://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:0 tvg-id="",Bollywood
+#EXTGRP:3. Movies/Кино
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Bollywood HD
+#EXTGRP:3. Movies/Кино
+http://s7.merlive.am/Bollywood/index.m3u8
+#EXTINF:0 tvg-id="",Bolt
+#EXTGRP:3. Movies/Кино
+http://hls127.homeiptv.org:8880/Bolt/video.m3u8
+#EXTINF:0 tvg-id="",Cinema
+#EXTGRP:3. Movies/Кино
+http://31.210.208.171:8080/cinema/index.m3u8?token=+W2MSER
+#EXTINF:0 tvg-id="",FilmBox
+#EXTGRP:3. Movies/Кино
+http://130.193.73.10:8937/play/a03s
+#EXTINF:0 tvg-id="",FILM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:3. Movies/Кино
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:0 tvg-id="",FlixSnip
+#EXTGRP:3. Movies/Кино
+http://185.50.148.2:7703/FlixSnip/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png",FMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTGRP:3. Movies/Кино
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:0 tvg-id="",Hollywood
+#EXTGRP:3. Movies/Кино
+https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="",Hollywood HD
+#EXTGRP:3. Movies/Кино
+http://130.193.73.10:8937/play/a02k
+#EXTINF:0 tvg-id="",Kinojam 1
+#EXTGRP:3. Movies/Кино
+http://95.142.88.250/KinoJam_1/index.m3u8
+#EXTINF:0 tvg-id="",Kinojam 1 HD
+#EXTGRP:3. Movies/Кино
+rtmp://5.182.229.90//7260
+#EXTINF:0 tvg-id="",Kinojam 2 HD
+#EXTGRP:3. Movies/Кино
+rtmp://5.182.229.90//7261
+#EXTINF:0 tvg-id="",Kinoliving
+#EXTGRP:3. Movies/Кино
+http://109.200.130.123:7537/play/a02k
+#EXTINF:0 tvg-id="",Romance HD
+#EXTGRP:3. Movies/Кино
+http://88.218.242.237:8000/play/a004
+#EXTINF:0 tvg-id="",SCR TV HD
+#EXTGRP:3. Movies/Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:0 tvg-id="",SeriesTV
+#EXTGRP:3. Movies/Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:0 tvg-id="",SD REX
+#EXTGRP:3. Movies/Кино
+http://195.26.83.96:7029/play/a008
+#EXTINF:0 tvg-id="",Shot TV
+#EXTGRP:3. Movies/Кино
+http://109.200.130.123:7537/play/a02b 
+#EXTINF:0 tvg-id="",Star Cinema
+#EXTGRP:3. Movies/Кино
+http://s7.merlive.am/starsinema/index.m3u8
+#EXTINF:0 tvg-id="",Suspense
+#EXTGRP:3. Movies/Кино
+http://88.218.242.237:8000/play/a005
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-id="la-minor" tvg-id="",Ля-минор
+#EXTGRP:5. Music/Музыка
+http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
 #EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="muztv", Муз ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 #EXTGRP:5. Music/Музыка
