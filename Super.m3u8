@@ -3451,10 +3451,10 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 http://stream01.vnet.am/Boomerang/mono.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-name="Alpha Cinema" tvg-rec="6",Alpha Cinema
+#EXTINF:0,Alpha Cinema
 #EXTGRP:3. Movies/Кино
 http://hlss.goodgame.ru/hls/205072.m3u8
-#EXTINF:0 tvg-name="Alpha Moretime" tvg-rec="6",Alpha Moretime
+#EXTINF:0,Alpha Moretime
 #EXTGRP:3. Movies/Кино
 http://hlss.goodgame.ru/hls/205116.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
