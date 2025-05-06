@@ -454,6 +454,12 @@ http://ru.troya.info:34000/ch1314/mono.m3u8?token=chessster.LKhSGZzj4uDyfD0PwF-C
 #EXTINF:0 tvg-name="Yosso TV Disney" tvg-logo="http://troya.info/images/chIcons/2456.png" tvg-rec="7", Yosso TV Disney
 #EXTGRP:2. Kids/Детские
 http://ru.troya.info:34000/ch2456/mono.m3u8?token=chessster.LKhSGZzj4uDyfD0PwF-Ck8eXxJhDUjvL1vp_dB_Iyh2cP0Y0771GTHMcEAaW0kfE
+#EXTINF:0,Alpha Cinema
+#EXTGRP:3. Movies/Кино
+http://hlss.goodgame.ru/hls/205072.m3u8
+#EXTINF:0,Alpha Moretime
+#EXTGRP:3. Movies/Кино
+http://hlss.goodgame.ru/hls/205116.m3u8
 #EXTINF:0 tvg-name="Киносемья HD" tvg-logo="http://troya.info/images/chIcons/8.png" tvg-rec="6", Киносемья HD
 #EXTGRP:3. Movies/Кино
 http://ru.troya.info:34000/ch008/mono.m3u8?token=chessster.LKhSGZzj4uDyfD0PwF-Ck9a69ZoigNl5r2SmpI4mSad4K2tyUyMRh9qN-6EjxeR4
