@@ -3519,12 +3519,6 @@ http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 #EXTGRP:3. Movies/Кино
 https://hls.goodgame.ru/hls/204722.m3u8
-#EXTINF:0 tvg-id="",Bollywood
-#EXTGRP:3. Movies/Кино
-https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="",Bollywood HD
-#EXTGRP:3. Movies/Кино
-http://s7.merlive.am/Bollywood/index.m3u8
 #EXTINF:0 tvg-id="",Bolt
 #EXTGRP:3. Movies/Кино
 http://hls127.homeiptv.org:8880/Bolt/video.m3u8
